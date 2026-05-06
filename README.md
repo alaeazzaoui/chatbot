@@ -1,5 +1,6 @@
-🧠 RAG Chatbot sur CV (Streamlit + Gemini + FAISS)
-📌 Introduction
+#🧠 RAG Chatbot sur CV (Streamlit + Gemini + FAISS)
+
+#📌 Introduction
 
 Ce projet est un Chatbot intelligent basé sur l’architecture RAG (Retrieval-Augmented Generation), capable de répondre uniquement aux questions liées au contenu d’un CV.
 
