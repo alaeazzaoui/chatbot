@@ -25,7 +25,7 @@ Toute question hors périmètre est automatiquement refusée.
 ## ⚙️ Technologies utilisées
 
 - **Streamlit** : interface utilisateur
-- **Google Gemini 2.0 Flash (google-genai)** : génération de réponses
+- **Google Gemini 2.5 Flash (google-genai)** : génération de réponses
 - **Sentence Transformers (all-MiniLM-L6-v2)** : embeddings
 - **FAISS** : recherche vectorielle
 - **PyPDF2** : lecture de fichiers PDF
